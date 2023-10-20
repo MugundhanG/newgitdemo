@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1697815392,,"wq"
+|2,0,1697815443,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,18 +25,27 @@
 # Registers:
 
 # File marks:
-'0  1  14  ~/app1
-|4,48,1,14,1697815392,"~/app1"
+'0  2  14  ~/app1
+|4,48,2,14,1697815443,"~/app1"
+'1  1  14  ~/app1
+|4,49,1,14,1697815392,"~/app1"
+'2  1  14  ~/app1
+|4,50,1,14,1697815392,"~/app1"
 
 # Jumplist (newest first):
+-'  2  14  ~/app1
+|4,39,2,14,1697815443,"~/app1"
+-'  1  14  ~/app1
+|4,39,1,14,1697815433,"~/app1"
 -'  1  14  ~/app1
 |4,39,1,14,1697815392,"~/app1"
 
 # History of marks within files (newest to oldest):
 
 > ~/app1
-	*	1697815391	0
-	"	1	14
-	^	1	15
-	.	1	14
-	+	1	14
+	*	1697815442	0
+	"	2	14
+	^	2	15
+	.	2	14
+	+	1	15
+	+	2	14
